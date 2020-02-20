@@ -1,0 +1,38 @@
+body{
+    background-color: lightblue;
+
+}
+img{
+    margin:1% ;
+    width: 30%;
+    height: 300px;
+}
+button{
+    background-color: khaki;
+    font-size: 15px;
+    width: 7%;
+    height: 40px;   
+}
+#previous{
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin-left: 10%;
+}
+
+#next{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    float: right;
+    margin-right: 10%;
+}
+li{
+    margin: 10px;
+    font-weight: bold;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+}
+p{
+    text-align:right;
+}
